@@ -1,9 +1,39 @@
 body{background-color:black;
      color:white;
-	 font-family:InconsolataRegular;
-	 position:absolute;
-	 top:80%;
-	 left:81%;
-	 font-size:200%;
+	 
 	
 }
+#RB{top:85%;
+	left:81%;
+	font-family:InconsolataRegular;
+	position:absolute;
+	font-size:200%;
+	
+}
+#RT{top:1%;
+	left:81%;
+	font-family:InconsolataRegular;
+	position:absolute;
+	font-size:160%;
+	
+}
+#RT>a{color:white;
+      font-family:InconsolataRegular;}
+#LB{top:89%;
+	left:1%;
+	font-family:InconsolataRegular;
+	position:absolute;
+	
+	
+}	  
+#LB>a{color:white;
+      font-family:Courier New;}	  
+#center{
+	color:white;
+	font-family:InconsolataRegular;
+	font-size:350%;
+	position:absolute;
+	top:30%;
+	left:30%;
+	}
+	
